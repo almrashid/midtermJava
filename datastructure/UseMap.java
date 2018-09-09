@@ -10,6 +10,7 @@ public class UseMap {
 		 *
 		 * Use any databases[MongoDB, Oracle, MySql] to store data and retrieve data.
 		 */
+		//if possible for each method
 
 	}
 
